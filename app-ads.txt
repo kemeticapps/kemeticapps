@@ -107,3 +107,4 @@ pokkt.com, 7606, RESELLER, c45702d9311e25fd
 yeahmobi.com, 5135195, RESELLER
 opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+applovin.com, 29e52c0c4f6b7c4a15ffbba998474c5d, DIRECT
